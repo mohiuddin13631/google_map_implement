@@ -1,0 +1,18 @@
+<key>io.flutter.embedded_views_preview</key>
+<string>YES</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Used to show your current location on the map</string>
+<key>NSLocationUsageDescription</key>
+<string>Used to show your current location on the map</string>
